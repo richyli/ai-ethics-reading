@@ -1,0 +1,246 @@
+[
+ {
+  "slug": "chatgpt-medication-death",
+  "title_zh": "ChatGPT 的減藥指導與一名癲癇患者之死",
+  "title_en": "ChatGPT's Medication Advice and an Epilepsy Patient's Death",
+  "tags": [
+   "sycophancy",
+   "overreliance",
+   "error"
+  ],
+  "published": "2026-10-28",
+  "url": "https://cn.nytimes.com/health/20261028/ai-chatgpt-medication-epilepsy-death/"
+ },
+ {
+  "slug": "school-ai-future-photos",
+  "title_zh": "老師用 AI 生成學童「長大後」的照片，家長擔憂",
+  "title_en": "Schools Are Embracing AI. Some Parents Are Worried",
+  "tags": [
+   "consent",
+   "overreliance"
+  ],
+  "published": "2026-10-23",
+  "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/23/schools-embracing-ai-parents-worried/92359840007/"
+ },
+ {
+  "slug": "just-eat-ai-menu",
+  "title_zh": "Just Eat 為 AI 菜單圖誤讀道歉",
+  "title_en": "Just Eat Apologises for AI Food Mistakes",
+  "tags": [
+   "error",
+   "disclosure"
+  ],
+  "published": "2026-10-21",
+  "url": "https://www.bbc.com/news/articles/crz981p0klvgo"
+ },
+ {
+  "slug": "mcdonalds-ai-pricing",
+  "title_zh": "麥當勞 AI 定價：你越肯花錢，漢堡越貴？",
+  "title_en": "McDonald's AI Pricing by Location",
+  "tags": [
+   "decision",
+   "accountability"
+  ],
+  "published": "2026-09-30",
+  "url": "https://www.bnext.com.tw/article/92445/mcdonalds-ai-pricing-by-location-big-mac"
+ },
+ {
+  "slug": "stanford-race-swap",
+  "title_zh": "史丹佛用 AI 替換宣傳照裡學生的種族",
+  "title_en": "Stanford Uses AI to Race-Swap Students in Advertising",
+  "tags": [
+   "consent",
+   "bias",
+   "disclosure"
+  ],
+  "published": "2026-09-21",
+  "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/"
+ },
+ {
+  "slug": "microsoft-humanist-ai",
+  "title_zh": "微軟 AI 人本行為準則",
+  "title_en": "Microsoft AI's Humanist AI Code of Conduct",
+  "tags": [
+   "control",
+   "sycophancy"
+  ],
+  "published": "2026-09-14",
+  "url": "https://microsoft.ai/code-of-conduct/"
+ },
+ {
+  "slug": "anthropic-researcher-resigns",
+  "title_zh": "Anthropic 研究員請辭，警告業界跑太快",
+  "title_en": "Anthropic Researchers Raise the Alarm as One Resigns",
+  "tags": [
+   "control"
+  ],
+  "published": "2026-09-10",
+  "url": "https://cn.nytimes.com/technology/20260910/anthropic-researchers-raise-alarm/zh-hant/"
+ },
+ {
+  "slug": "alien-mind-alignment",
+  "title_zh": "異星心智：OpenAI 首席科學家的對齊警告",
+  "title_en": "An Alien Mind",
+  "tags": [
+   "control",
+   "agent"
+  ],
+  "published": "2026-09-06",
+  "url": "https://openai.com/index/an-alien-mind/"
+ },
+ {
+  "slug": "openai-agent-swarm",
+  "title_zh": "OpenAI 智慧體蜂群入侵 Hugging Face 事件",
+  "title_en": "The Hugging Face Incident and the Road Ahead",
+  "tags": [
+   "agent",
+   "control"
+  ],
+  "published": "2026-08-26",
+  "url": "https://openai.com/zh-Hant/index/hugging-face-incident-and-the-road-ahead/"
+ },
+ {
+  "slug": "nantou-ai-burning",
+  "title_zh": "南投用 AI 抓露天燒稻草，告發率從零到九成",
+  "title_en": "Nantou Uses AI Cameras to Catch Illegal Straw Burning",
+  "tags": [
+   "surveillance",
+   "decision"
+  ],
+  "published": "2026-06-24",
+  "url": "https://udn.com/news/story/7325/9586064"
+ },
+ {
+  "slug": "indy-newsrooms-ai",
+  "title_zh": "地方新聞室怎麼用 AI：印第安納波利斯的盤點",
+  "title_en": "How Indianapolis Newsrooms Are Using AI",
+  "tags": [
+   "disclosure"
+  ],
+  "published": "2026-05-20",
+  "url": "https://www.poynter.org/reporting-editing/2026/ai-newsrooms-local-indianapolis-media/"
+ },
+ {
+  "slug": "ai-productivity-gap",
+  "title_zh": "AI 讓人變快，未必讓人變強",
+  "title_en": "AI Is Making Workers Faster, and That Could Be a Problem",
+  "tags": [
+   "overreliance",
+   "accountability"
+  ],
+  "published": "2026",
+  "url": "https://www.newsweek.com/goto-ai-workplace-productivity-skills-study-11968221"
+ },
+ {
+  "slug": "australia-fake-citations",
+  "title_zh": "澳洲資深律師在謀殺案提交 AI 假引文",
+  "title_en": "Senior Lawyer Apologizes for AI-Generated Fake Quotes in Murder Case",
+  "tags": [
+   "error",
+   "overreliance"
+  ],
+  "published": "2025-08-15",
+  "url": "https://www.cbsnews.com/news/lawyer-apologizes-ai-fake-quotes-judgments-murder-case-australia/"
+ },
+ {
+  "slug": "air-canada-chatbot",
+  "title_zh": "Air Canada 客服機器人給錯資訊，航空公司被判賠償",
+  "title_en": "Air Canada Found Liable for Its Chatbot's Bad Advice",
+  "tags": [
+   "error",
+   "accountability"
+  ],
+  "published": "2024-02",
+  "url": "https://www.cbc.ca/news/canada/british-columbia/air-canada-chatbot-lawsuit-1.7116416"
+ },
+ {
+  "slug": "rite-aid-facial-recognition",
+  "title_zh": "Rite Aid 濫用人臉辨識，遭 FTC 禁用五年",
+  "title_en": "Rite Aid Banned from Using AI Facial Recognition",
+  "tags": [
+   "surveillance",
+   "bias",
+   "accountability"
+  ],
+  "published": "2023-12-19",
+  "url": "https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without"
+ },
+ {
+  "slug": "ai-label-trust-penalty",
+  "title_zh": "標示「AI 生成」，反而降低對媒體的信任",
+  "title_en": "Why Labeling News as AI-Generated Lowers Trust in the Outlet",
+  "tags": [
+   "disclosure"
+  ],
+  "published": "2023-12-07",
+  "url": "https://news.yahoo.co.jp/expert/articles/17e7c97b860cadee87c613087067b3b239760751"
+ },
+ {
+  "slug": "mata-avianca-fake-cases",
+  "title_zh": "律師用 ChatGPT 寫訴狀，引用六個不存在的判例",
+  "title_en": "Lawyer Used ChatGPT in Court and Cited Fake Cases",
+  "tags": [
+   "error",
+   "overreliance",
+   "accountability"
+  ],
+  "published": "2023-06-08",
+  "url": "https://www.forbes.com/sites/mollybohannon/2023/06/08/lawyer-used-chatgpt-in-court-and-cited-fake-cases-a-judge-is-considering-sanctions/"
+ },
+ {
+  "slug": "epic-sepsis-validation",
+  "title_zh": "醫院用了多年的敗血症 AI，外部驗證遠不如廠商宣稱",
+  "title_en": "External Validation of a Widely Used Sepsis Prediction Model",
+  "tags": [
+   "error",
+   "overreliance",
+   "accountability"
+  ],
+  "published": "2021-06-21",
+  "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2781307"
+ },
+ {
+  "slug": "health-algorithm-cost-proxy",
+  "title_zh": "醫療演算法拿「花費」當「病情」，低估黑人病人",
+  "title_en": "A Health Algorithm That Mistook Spending for Need",
+  "tags": [
+   "bias",
+   "decision"
+  ],
+  "published": "2019-10-25",
+  "url": "https://www.ftc.gov/system/files/documents/public_events/1548288/privacycon-2020-ziad_obermeyer.pdf"
+ },
+ {
+  "slug": "amazon-hiring-bias",
+  "title_zh": "亞馬遜 AI 履歷篩選歧視女性",
+  "title_en": "Amazon's AI Recruiting Tool Penalized Women",
+  "tags": [
+   "bias",
+   "decision"
+  ],
+  "published": "2018-10-17",
+  "url": "https://technews.tw/2018/10/17/ai-discrimination-mistakes/"
+ },
+ {
+  "slug": "compas-machine-bias",
+  "title_zh": "Machine Bias：COMPAS 再犯風險評分的種族落差",
+  "title_en": "Machine Bias: Risk Assessments in Criminal Sentencing",
+  "tags": [
+   "bias",
+   "decision"
+  ],
+  "published": "2016-05-23",
+  "url": "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+ },
+ {
+  "slug": "compas-methodology",
+  "title_zh": "ProPublica 如何檢驗 COMPAS 再犯演算法",
+  "title_en": "How We Analyzed the COMPAS Recidivism Algorithm",
+  "tags": [
+   "bias",
+   "accountability"
+  ],
+  "published": "2016-05-23",
+  "url": "https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm"
+ }
+]

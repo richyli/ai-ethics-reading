@@ -1,0 +1,37 @@
+:root{--bg:#fbfaf7;--fg:#1d1d1f;--muted:#6b6b70;--line:#e4e1da;--card:#fff;--accent:#9a3412;
+--chip:#f1ede4;--chip-on:#1d1d1f;--chip-on-fg:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#161615;--fg:#ecebe7;--muted:#a3a29c;--line:#34332f;
+--card:#1f1f1d;--accent:#fb923c;--chip:#2a2926;--chip-on:#ecebe7;--chip-on-fg:#161615}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);line-height:1.7;
+font-family:"Inter","Segoe UI",-apple-system,"Helvetica Neue",Arial,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+main{max-width:1100px;margin:0 auto;padding:28px 16px 64px}
+a{color:inherit}
+header.top{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;
+border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:14px}
+h1{font-size:1.55rem;margin:0;line-height:1.3}
+.sub{color:var(--muted);margin:2px 0 0;font-size:.95rem}
+.lang{font-size:.9rem;color:var(--muted);white-space:nowrap}
+.tagbar{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 16px}
+.tagbar button,.chip{font:inherit;font-size:.82rem;border:1px solid var(--line);background:var(--chip);
+color:var(--fg);border-radius:999px;padding:2px 11px;cursor:pointer;text-decoration:none;line-height:1.6}
+.tagbar button[aria-pressed=true]{background:var(--chip-on);color:var(--chip-on-fg);border-color:var(--chip-on)}
+.tagbar .n{opacity:.6;margin-left:3px}
+header.top>div{min-width:0}
+ol.list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(320px,100%),1fr));gap:10px}
+ol.list li{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:11px 14px}
+ol.list li[hidden]{display:none}
+ol.list a.t{font-weight:600;text-decoration:none;display:block;line-height:1.45}
+ol.list a.t:hover{color:var(--accent)}
+.meta{color:var(--muted);font-size:.82rem;margin:4px 0 6px}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chips .chip{font-size:.75rem;padding:0 8px;cursor:pointer}
+article{max-width:720px}
+article .back{font-size:.9rem;color:var(--muted);text-decoration:none}
+article h1{margin:14px 0 4px}
+article .intro{font-size:1.04rem;margin:18px 0 22px}
+.go{display:inline-block;background:var(--fg);color:var(--bg);text-decoration:none;font-weight:600;
+padding:9px 18px;border-radius:8px}
+.go:hover{background:var(--accent)}
+.note{color:var(--muted);font-size:.85rem;margin-top:10px}
+footer{color:var(--muted);font-size:.8rem;margin-top:36px;border-top:1px solid var(--line);padding-top:10px}
