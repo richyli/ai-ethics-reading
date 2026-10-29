@@ -22,7 +22,7 @@ color:var(--fg);border-radius:999px;padding:2px 9px;cursor:pointer;text-decorati
 header.top>div{min-width:0}
 ol.list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(320px,100%),1fr));gap:10px}
 ol.list li{position:relative;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:11px 14px}
-ol.list li:hover{border-color:var(--accent)}
+ol.list li:hover{border-color:var(--muted)}
 /* 整張卡片可點：標題連結的 ::after 蓋滿卡片，小標籤浮在上面另外可點 */
 ol.list a.t::after{content:"";position:absolute;inset:0;border-radius:10px}
 ol.list li[hidden]{display:none}
@@ -42,4 +42,30 @@ article .intro{font-size:1.04rem;margin:18px 0 22px}
 padding:9px 18px;border-radius:8px}
 .go:hover{background:var(--accent)}
 .note{color:var(--muted);font-size:.85rem;margin-top:10px}
+.kicker{display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.04em;color:var(--accent);margin:0 0 2px}
+ol.list li.topic{border-color:var(--accent);border-width:1.5px;background:color-mix(in srgb,var(--accent) 5%,var(--card))}
+ol.list li.topic:hover{border-color:var(--accent);box-shadow:0 2px 10px color-mix(in srgb,var(--accent) 22%,transparent)}
+article.topic .kicker{margin:14px 0 0}
+article.topic h1{margin-top:2px}
+.toc{border:1px solid var(--line);border-radius:10px;background:var(--card);padding:8px 14px;margin:16px 0 4px;font-size:.92rem}
+.toc ol{margin:0;padding-left:1.4em;columns:2;column-gap:28px}
+.toc a{text-decoration:none}.toc a:hover{color:var(--accent)}
+@media (max-width:600px){.toc ol{columns:1}}
+article.topic .intro h2{font-size:1.18rem;margin:30px 0 6px;scroll-margin-top:12px}
+article.topic .intro ul{padding-left:1.3em}
+article.topic .intro p,article.topic .intro ul{max-width:36em}
+html[lang=en] article.topic .intro p,html[lang=en] article.topic .intro ul{max-width:68ch}
+article.topic h2 .up{float:right;font-size:.78rem;font-weight:400;color:var(--muted);text-decoration:none;margin-top:6px}
+article.topic h2 .up:hover{color:var(--accent)}
+article.topic .actions{margin-top:28px}
+article.topic .intro li{margin:4px 0}
+.refs h2{font-size:1.18rem;margin:34px 0 4px;border-top:1px solid var(--line);padding-top:18px}
+.refs h3{font-size:1.02rem;margin:20px 0 4px;color:var(--fg)}
+.refs h3 .n{color:var(--muted);font-weight:400;margin-left:6px;font-size:.85rem}
+.refs h3 .n::before{content:"（"}.refs h3 .n::after{content:"）"}
+html[lang=en] .refs h3 .n::before{content:"("}html[lang=en] .refs h3 .n::after{content:")"}
+.refs ul{list-style:none;padding:0;margin:0}
+.refs li{padding:7px 0;border-bottom:1px dashed var(--line);font-size:.93rem;line-height:1.55}
+.refs li a{text-decoration:none}.refs li a:hover{color:var(--accent);text-decoration:underline}
+.refs .why{display:block;color:var(--muted);font-size:.86rem;margin-top:2px}
 footer{color:var(--muted);font-size:.8rem;margin-top:36px;border-top:1px solid var(--line);padding-top:10px}
