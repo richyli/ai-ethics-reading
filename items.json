@@ -1,5 +1,17 @@
 [
  {
+  "slug": "anthropic-s1-risks",
+  "title_zh": "從招股書讀 AI 風險：Anthropic 寫給投資人的失控、存在性與社會風險",
+  "title_en": "Reading AI Risk in a Prospectus: What Anthropic Told Investors About Loss of Control, Existential Risk and Society",
+  "tags": [
+   "control",
+   "disclosure",
+   "agent"
+  ],
+  "published": "2026-11-20",
+  "url": ""
+ },
+ {
   "slug": "ea-vs-eacc",
   "title_zh": "有效利他 vs 有效加速：AI 時代的趨勢、爭辯與哲學問題",
   "title_en": "Effective Altruism vs. e/acc: Trends, Debates and Philosophical Questions in the Age of AI",
